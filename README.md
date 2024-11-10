@@ -18,7 +18,7 @@
 #### Шаги для компиляции и запуска:
 1. Скачайте или клонируйте репозиторий:
     ```bash
-    git clone <url_вашего_репозитория>
+    git clone https://github.com/whatzwastaken/Monitoring-App-with-Telegram-Bot.git
     ```
 2. Перейдите в директорию с приложением:
     ```bash
